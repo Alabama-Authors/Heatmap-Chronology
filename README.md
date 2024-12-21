@@ -1,6 +1,8 @@
-# Neatline Heatmap Chronology (for AlabamaAuthors.org)
+# Heatmap Chronology 
 
-## Version 2.0
+## for Alabama Authors of the 19th & 20th Centuries (AlabamaAuthors.org) using Neatline
+Version 2.0
+
 For the current solution on Omeka Classic, the Neatline plugin offers a timeline and chart wheel heatmap for data interaction. 
 
 ### Key Features:
