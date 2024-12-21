@@ -1,4 +1,4 @@
-# Neatline Heatmap Chronology
+# Neatline Heatmap Chronology (for AlabamaAuthors.org)
 
 ## Version 2.0
 For the current solution on Omeka Classic, the Neatline plugin offers a timeline and chart wheel heatmap for data interaction. 
